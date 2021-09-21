@@ -3,15 +3,15 @@
 # Copiar todo esto #
 #                  #
 ####################
-# Hecho con gusto por Selene Mu駉z Ortega (UAEH)
+# Hecho con gusto por Selene Mu帽oz Ortega (UAEH)
 
-# LABORATORIO - Tidy data -datos ordenados- PARTE 1,2 y 3.
+# LABORATORIO - Tidy data -datos ordenados- PARTE 1 y 2.
 
-# Objetivo: Introducci髇 pr醕tica a los datos ordenados (o tidy data) y a las herramientas que provee el paquete tidyr.
+# Objetivo: Introducci贸n pr谩ctica a los datos ordenados (o tidy data) y a las herramientas que provee el paquete tidyr.
 # --------------------------------------------------------------------------------------------------------------------
 # En este ejercicio vamos a:
 # 1. Cargar datos (tibbles)
-# 2. Convertir nuestros tibbles en dataframes (para su exportaci髇)
+# 2. Convertir nuestros tibbles en dataframes (para su exportaci贸n)
 # 3. Exportar dataframes originales
 # 4. Pivotar tabla 4a
 # 5. Exportar resultado (TABLA PIVOTANTE)
@@ -44,7 +44,7 @@ library(tidyr)
 #Cargar paquete de datos
 library(datos)
 
-#Cargar otras paqueter韆s para que de la funci髇 %>% 
+#Cargar otras paqueter铆as para que de la funci贸n %>% 
 library(dplyr)
 
 #tabla 1 hasta tabla 4b
@@ -72,7 +72,7 @@ write.csv(df4b,file = "df4b.csv")
 
 
 vignette("tibble")
-#explicaci髇 de tibble
+#explicaci贸n de tibble
 
 
 # Ordenar datos con la tabla4a (PIVOTAR)
