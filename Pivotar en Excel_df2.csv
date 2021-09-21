@@ -1,0 +1,14 @@
+Tabla 2 original,,,,,,,,
+pais,anio,tipo,cuenta,,Tabla 2 pivotada,,,
+Afganistán,1999,casos,745,,pais,anio,casos,poblacion
+Afganistán,1999,población,19987071,,Afganistán,1999,745,19987071
+Afganistán,2000,casos,2666,,Afganistán,2000,2666,20595360
+Afganistán,2000,población,20595360,,Brasil,1999,37737,172006362
+Brasil,1999,casos,37737,,Brasil,2000,80488,174504898
+Brasil,1999,población,172006362,,China,1999,212258,1272915272
+Brasil,2000,casos,80488,,China,2000,213766,1280428583
+Brasil,2000,población,174504898,,,,,
+China,1999,casos,212258,,,,,
+China,1999,población,1272915272,,,,,
+China,2000,casos,213766,,,,,
+China,2000,población,1280428583,,,,,
